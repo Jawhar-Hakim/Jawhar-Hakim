@@ -1,13 +1,15 @@
 # 💫 About Me:
 
+👨‍🎓 I'm 3rd year Software Engineering student, looking for an internship for my End of Studies Project<br>
 🔭 I'm currently building a Game Boy emulator in C and exploring low-level programming<br>
 👨‍💻 I'm a Software Engineering student interested in software development and systems programming<br>
 🤝 I'm looking to collaborate on open-source projects and interesting software projects<br>
-🌱 I'm currently learning C, Docker, WebSockets, WebRTC, and systems programming<br>
+🌱 I'm currently learning C, Docker, Go, and systems programming<br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/jawhar__hakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jawharhakimprofessional@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/jawhar__hakim) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jawharhakimprofessional@gmail.com)
 
 # 💻 Tech Stack:
 
