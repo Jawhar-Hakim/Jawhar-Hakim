@@ -64,20 +64,20 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
-
+<!--
 **Gym Coach Platform 🏋️** – A cross-platform platform connecting clients with private gym coaches, including coaching requests, plans, ratings, and communication.<br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat\&logo=laravel\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-
-### 🎮 Games & Low-Level Projects
+-->
+### 🎮 Low-Level Projects
 
 **Game Boy Emulator 🎮** – A Game Boy emulator written from scratch in C, implementing the CPU, registers, memory, instructions, flags, stack operations, jumps, calls, and returns.<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
-
+<!--
 **Pong 🏓** – A small Pong game built while exploring game development and programming fundamentals.<br>
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat\&logo=lua\&logoColor=white)
-
+-->
 ### 🔧 Hardware & Experiments
 
 **ESP32 Voice Assistant 🎙️** – An ESP32-based voice assistant experiment using a microphone, audio upload, speech transcription, and hardware controls.<br>
