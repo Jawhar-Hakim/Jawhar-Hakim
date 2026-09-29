@@ -94,4 +94,4 @@
 
 | Degree                                  | Institution                                                         | Status      |
 | --------------------------------------- | ------------------------------------------------------------------- | ----------- |
-| Software Engineering / Computer Science | ISIMS – Higher Institute of Computer Science and Multimedia of Sfax | In Progress |
+| Software Engineering / Computer Science | ISIMS – Higher Institute of Computer Science and Multimedia of Sfax | Obtained 2024 |
